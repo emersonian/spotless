@@ -1,0 +1,27 @@
+{
+  "name": "spotless",
+  "version": "0.0.1",
+  "description": "Modern development workflow for TIBCO Spotfire scripts",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -a localhost -p 7777",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonian/spotless.git"
+  },
+  "keywords": [
+    "spotfire"
+  ],
+  "author": "Emerson Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersonian/spotless/issues"
+  },
+  "homepage": "https://github.com/emersonian/spotless#readme"
+}
